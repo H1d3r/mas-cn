@@ -23,6 +23,7 @@ Windows 和 Office 激活神器 ( Microsoft-Activation-Scripts 简称 MAS ) 的�
 > 
 > **打开 Powershell 或 Terminal（终端）输入命令即可使用**
 >
+> - Windows Defender 有概率误删，使用前请关闭扫描
 > - 此为本仓库汉化版使用命令，若该方法无法使用，可以在 Release 下载最新版的 cmd 文件打开即可使用
 > ```
 >  irm https://gitee.com/cmontage/mas-cn/raw/main/GETMASCN.ps1 | iex
